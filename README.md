@@ -43,7 +43,7 @@ I like to understand, automate, and document — I've collected everything I do 
 
 ### 📫 Контакты  
 📧 [email@gmail.com](mailto:nelochka5@gmail.com)  
-💬 Telegram: [@yourhandle](https://t.me/nelavlg)  
+💬 Telegram: [@Nela](https://t.me/nelavlg)  
 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
 ---
