@@ -42,7 +42,7 @@ I like to understand, automate, and document — I've collected everything I do 
 ---
 
 ### 📫 Контакты  
-📧 [email@example.com](mailto:nelochka5@gmail.com)  
+📧 [email@gmail.com](mailto:nelochka5@gmail.com)  
 💬 Telegram: [@yourhandle](https://t.me/nelavlg)  
 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 
