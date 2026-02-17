@@ -1,4 +1,3 @@
-
 # 👋 Привет, я Nela  
 
 🛡️ IT Cybersecurity Engineer
@@ -9,7 +8,7 @@
 
 | Репозиторий | Описание |
 |-------------|-----------|
-| 📢 [telegram-notifications](https://github.com/Nelochka34/telegram-notifications) | SOC Alerting сервис: принимает события из OpenSearch, обрабатывает их и отправляет инциденты и security-алерты в Telegram-чаты через Bot API. Используется в CI/CD и контейнеризирован через Docker |
+| 📢 [telegram-notifications](https://github.com/Nelochka34/telegram_notification) | SOC Alerting сервис: принимает события из OpenSearch, обрабатывает их и отправляет инциденты и security-алерты в Telegram-чаты через Bot API. Используется в CI/CD и контейнеризирован через Docker |
 | 🔐 [linux-hardening](https://github.com/Nelochka34/linux-hardening) | Конфиги и правила для auditd, rsyslog, SELinux, с моими комментариями и практиками |
 | ☸️ [k8s-security](https://github.com/Nelochka34/k8s-security) | Примеры Falco-правил, network policies и безопасных deployment-манифестов |
 | 🧠 [notes-security](https://github.com/Nelochka34/notes-security) | Личные заметки по Linux Security, AppArmor, SSH, логированию и т.д. |
