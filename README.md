@@ -8,7 +8,7 @@
 
 | Репозиторий | Описание |
 |-------------|-----------|
-| [kubernetes-soc] () | 
+| [kubernetes-soc](https://github.com/Nelochka34/kubernetes_soc) | Прием логов в Kubernetes c использованием MetalLB | 
 | 📢 [telegram-notifications](https://github.com/Nelochka34/telegram_notification) | SOC Alerting сервис: принимает события из OpenSearch, обрабатывает их и отправляет инциденты и security-алерты в Telegram-чаты через Bot API. Используется в CI/CD и Docker |
 | 🔐 [linux-hardening](https://github.com/Nelochka34/linux-hardening) | Конфиги и правила для auditd, rsyslog, SELinux, с моими комментариями и практиками |
 | ☸️ [k8s-security](https://github.com/Nelochka34/k8s-security) |  |
